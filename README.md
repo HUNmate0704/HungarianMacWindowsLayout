@@ -1,4 +1,4 @@
-# HungarianMacWindowsLayout
+# Hungarian Mac Windows Layout
 Ez egy olyan billentyűzetkiosztás Mac gépekre, ami Magyar nyelven megegyezik a Windows-os társával.
 Javasolt magyar billentyűzettel ellátott Macen használni.
 
