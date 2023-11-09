@@ -8,5 +8,5 @@ Miután letöltötted a Hungarian_Win.keylayout file-t, másold be a "/Library/K
 
 After downloading the Hungarian_Win.keylayout file, copy it to the "/Library/Keyboard Layouts/" folder and select the layout in System Preferences > Language & Text > Input Sources.
 
-Annyiban javított ez mint az interneten megtalálhatóak, hogy magasabb prioritást adtam meg, ezáltal nem fogo applikációváltáskor megváltozni
+Annyiban javított ez mint az interneten megtalálhatóak, hogy magasabb prioritást adtam meg, ezáltal nem fog applikációváltáskor megváltozni
 véletlenül sem a kiosztás. Ez megtörténhetett eddig, ha alacsonyon volt hagyva.
